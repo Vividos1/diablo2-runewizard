@@ -85,10 +85,8 @@ a { color:var(--color-gold); }
   }
 
   &-goldBarSeparator {
-    height: 64px;
-    background-image: url("../images/lock04.png");
-    background-repeat: repeat-x;
-    background-position: center;
+    height: 16px;
+    background: var(--color-lav);
   }
 }
 

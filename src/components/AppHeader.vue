@@ -4,8 +4,8 @@
     <div class="rw-Layout-rowContainer h-[106px] flex">
       <div class="pr-[20px] pt-[17px]">
         <img
-          src="@assets/images/logo-rune.png"
-          alt="Rune icon original art (c) BLIZZARD ENTERTAINMENT"
+          src="@assets/images/codex.png"
+          alt="Blizzard Stuff"
           class="w-[69px] h-[67px]"
         />
       </div>

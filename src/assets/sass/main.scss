@@ -86,7 +86,8 @@ a { color:var(--color-gold); }
 
   &-goldBarSeparator {
     background: url("@assets/images/lock04.png") repeat-x 0 100%;
-    @apply h-[64px];
+    height: 64px;
+    background: red !important;
   }
 }
 
